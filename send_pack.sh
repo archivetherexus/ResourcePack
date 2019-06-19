@@ -4,4 +4,4 @@ cp resourcepack.zip "$SUM.zip"
 git add .
 git commit -m "Updated resource-pack."
 git push origin master
-echo "Set the resource pack path to: https\\://github.com/tyrerexus/ResourcePack/raw/master/$SUM.zip"
+echo "Set the resource pack path to: http\\://github.com/tyrerexus/ResourcePack/raw/master/$SUM.zip"
